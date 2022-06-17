@@ -1,0 +1,7 @@
+D:\Michal\SGGW\Semestr 4\Programowanie Wielowątkowe\Zaliczenia - zadania\Projekt 2\Pamięta_Michał_196099_Projekt2\Pamięta_Michał_196099_Projekt2v2\bin\Debug\Pamięta_Michał_196099_Projekt2v2.exe.config
+D:\Michal\SGGW\Semestr 4\Programowanie Wielowątkowe\Zaliczenia - zadania\Projekt 2\Pamięta_Michał_196099_Projekt2\Pamięta_Michał_196099_Projekt2v2\bin\Debug\Pamięta_Michał_196099_Projekt2v2.exe
+D:\Michal\SGGW\Semestr 4\Programowanie Wielowątkowe\Zaliczenia - zadania\Projekt 2\Pamięta_Michał_196099_Projekt2\Pamięta_Michał_196099_Projekt2v2\bin\Debug\Pamięta_Michał_196099_Projekt2v2.pdb
+D:\Michal\SGGW\Semestr 4\Programowanie Wielowątkowe\Zaliczenia - zadania\Projekt 2\Pamięta_Michał_196099_Projekt2\Pamięta_Michał_196099_Projekt2v2\obj\Debug\Pamięta_Michał_196099_Projekt2v2.csproj.CoreCompileInputs.cache
+D:\Michal\SGGW\Semestr 4\Programowanie Wielowątkowe\Zaliczenia - zadania\Projekt 2\Pamięta_Michał_196099_Projekt2\Pamięta_Michał_196099_Projekt2v2\obj\Debug\Pamięta_Michał_196099_Projekt2v2.exe
+D:\Michal\SGGW\Semestr 4\Programowanie Wielowątkowe\Zaliczenia - zadania\Projekt 2\Pamięta_Michał_196099_Projekt2\Pamięta_Michał_196099_Projekt2v2\obj\Debug\Pamięta_Michał_196099_Projekt2v2.pdb
+D:\Michal\SGGW\Semestr 4\Programowanie Wielowątkowe\Zaliczenia - zadania\Projekt 2\Pamięta_Michał_196099_Projekt2\Pamięta_Michał_196099_Projekt2v2\obj\Debug\Pamięta_Michał_196099_Projekt2v2.csprojAssemblyReference.cache
