@@ -1,0 +1,7 @@
+D:\Michal\SGGW\Semestr 4\Programowanie Wielowątkowe\Zadania\Projekt 1\Pamięta_Michał_196099_Projekt1\Wersja 4\bin\Debug\Wersja 4.exe.config
+D:\Michal\SGGW\Semestr 4\Programowanie Wielowątkowe\Zadania\Projekt 1\Pamięta_Michał_196099_Projekt1\Wersja 4\bin\Debug\Wersja 4.exe
+D:\Michal\SGGW\Semestr 4\Programowanie Wielowątkowe\Zadania\Projekt 1\Pamięta_Michał_196099_Projekt1\Wersja 4\bin\Debug\Wersja 4.pdb
+D:\Michal\SGGW\Semestr 4\Programowanie Wielowątkowe\Zadania\Projekt 1\Pamięta_Michał_196099_Projekt1\Wersja 4\obj\Debug\Wersja 4.csproj.CoreCompileInputs.cache
+D:\Michal\SGGW\Semestr 4\Programowanie Wielowątkowe\Zadania\Projekt 1\Pamięta_Michał_196099_Projekt1\Wersja 4\obj\Debug\Wersja 4.exe
+D:\Michal\SGGW\Semestr 4\Programowanie Wielowątkowe\Zadania\Projekt 1\Pamięta_Michał_196099_Projekt1\Wersja 4\obj\Debug\Wersja 4.pdb
+D:\Michal\SGGW\Semestr 4\Programowanie Wielowątkowe\Zadania\Projekt 1\Pamięta_Michał_196099_Projekt1\Wersja 4\obj\Debug\Wersja 4.csprojAssemblyReference.cache
